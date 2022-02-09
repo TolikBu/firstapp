@@ -40,6 +40,7 @@ const LogIn = styled.button`
   background-color: #f0f0f0;
   border-radius: 20px;
   cursor: pointer;
+  box-shadow: -1px -1px 5px 0 #fff, 1px 1px 5px 0 #000; 
 `;
 
 export const NavBar = () => (
